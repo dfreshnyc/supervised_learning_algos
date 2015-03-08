@@ -1,7 +1,10 @@
 # supervised_learning_algos
 Mastery of Supervised Learning Algorithms
 
-In this repository, I demonstrate mastery of the most common supervised learning algorithms:
+Winter/Spring 2015 Data Science 
+  Mastered Classification Algorithms
+    Labs, Homeworks and Notes
+
 - Linear Regression
 - Logistic Regression
 - Naive Bayes Classifier
