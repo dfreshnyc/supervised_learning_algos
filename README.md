@@ -1,9 +1,7 @@
 # supervised_learning_algos
 Mastery of Supervised Learning Algorithms
 
-Winter/Spring 2015 Data Science 
-  Mastered Classification Algorithms
-    Labs, Homeworks and Notes
+Winter/Spring 2015 Data Science
 
 - Linear Regression
 - Logistic Regression
