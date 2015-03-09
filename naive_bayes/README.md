@@ -9,3 +9,7 @@ Description of challenge
 Using code similar to what we did for Twitter sentiment analysis
 
 Create a classifier and experiment with the feature set to most accurately predict whether an SMS is spam or ham.
+ 
+import nltk
+
+nltk.NaiveBayesClassifier.train()
